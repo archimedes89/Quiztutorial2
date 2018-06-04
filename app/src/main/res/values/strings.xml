@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiztutorial</string>
+    <string name="startButton">Start</string>
+    <string name="buttonStartPage">Startseite</string>
+    <string name="scoreScreen">Punkte: %1$s</string>
+</resources>
